@@ -1,0 +1,13 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\bin\Debug\netcoreapp3.0\GeometricFunctions.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\obj\Debug\netcoreapp3.0\GeometricFunctions.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\obj\Debug\netcoreapp3.0\GeometricFunctions.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\obj\Debug\netcoreapp3.0\GeometricFunctions.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\bin\Debug\netcoreapp3.0\GeometricFunctions.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\bin\Debug\netcoreapp3.0\GeometricFunctions.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\bin\Debug\netcoreapp3.0\GeometricFunctions.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\bin\Debug\netcoreapp3.0\GeometricFunctions.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\bin\Debug\netcoreapp3.0\GeometricFunctions.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\bin\Debug\netcoreapp3.0\GeoCoordinate.NetCore.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\obj\Debug\netcoreapp3.0\GeometricFunctions.csproj.CopyComplete
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\obj\Debug\netcoreapp3.0\GeometricFunctions.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GeometricFunctions\GeometricFunctions\obj\Debug\netcoreapp3.0\GeometricFunctions.pdb
